@@ -32,7 +32,6 @@ if($option == 1){
         };
         echo "\n";
         echo "\n";
-        $option2 = readline("Save result y/n -> ");
         
     }
     GetIp();
